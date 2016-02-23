@@ -1,0 +1,5 @@
+.application-container {
+  position:absolute;
+  top:30%;
+  left:calc(50% - 146px);
+}
