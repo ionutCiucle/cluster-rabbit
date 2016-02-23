@@ -16,7 +16,9 @@ After that, get the node modules: <br>
 Then install the webpack bundler globally: <br>
 <code>npm install webpack -g</code>
 
-Finally, start the server (also triggers some gulp tasks - bundling with webpack and transpiling with Babel): <br>
-<code>npm start</code>
+Start the server (also triggers some gulp tasks - bundling with webpack and transpiling with Babel): <br>
+<code>npm start</code> <br>
+
+Go to <a href='http://localhost:6900'>http://localhost:6900<a/> and interact with the server (we're a little low on buttons :( )
 
 
