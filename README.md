@@ -8,7 +8,7 @@ Babel is used for ES6/React/JSX transpiling. <br>
 # Prerequisites
 You need to install the RabbitMQ server (along with its own dependencies, listed on www.rabbitmq.com) before using the app. 
 Next, clone the repository: <br>
-<code>git clone https://github.com/ionutCiucle/cluster-rabbit.git</code>
+<code>git clone https://github.com/ionutCiucle/react-to-rabbit-clusters.git</code>
 
 After that, get the node modules: <br>
 <code>npm install</code>
